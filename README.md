@@ -55,7 +55,6 @@ Aplicativo mobile em desenvolvimento com React Native (Expo) e TypeScript.
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-demetino&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-demetino&theme=default" alt="GitHub streak" height="165"/>
 </p>
 
